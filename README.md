@@ -35,7 +35,17 @@ List anything else that you can get done to improve the app functionality!
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/andersontan1998/SimpleTweet/blob/main/Login.gif' title='Login Implmentation' width='' alt='Video Walkthrough' />
+Login Representaion -
+
+<img src='https://github.com/andersontan1998/SimpleTweet/blob/main/Login.gif' width=350><br>
+
+Pull down to refresh and infinite pagination -
+
+<img src='https://github.com/andersontan1998/SimpleTweet/blob/main/PullToRefresh.gif' width=350><br>
+
+Tweets are clickable and will launch the web browser -
+
+<img src='https://github.com/andersontan1998/SimpleTweet/blob/main/ClickableLinks.gif' width=350><br>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
