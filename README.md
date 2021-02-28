@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-Composing a new Tweet
+Composing a new Tweet and Clickable Link demonstration
 
 <img src='https://github.com/andersontan1998/SimpleTweet/blob/main/Compose.gif' width=350><br>
 
@@ -43,7 +43,7 @@ Word Counter to display the number of characters left for the tweet
 
 <img src='https://github.com/andersontan1998/SimpleTweet/blob/main/WordCount.gif' width=350><br>
 
-Offline representation of the app
+Offline representation of the App
 
 <img src='https://github.com/andersontan1998/SimpleTweet/blob/main/Offline.gif' width=350><br>
 
