@@ -35,11 +35,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-Composing a new Tweet and Clickable Link demonstration
+Composing a new Tweet and Demonstration of Clickable Links
 
 <img src='https://github.com/andersontan1998/SimpleTweet/blob/main/Compose.gif' width=350><br>
 
-Word Counter to display the number of characters left for the tweet
+Word Counter to display the number of characters left for the Tweet
 
 <img src='https://github.com/andersontan1998/SimpleTweet/blob/main/WordCount.gif' width=350><br>
 
